@@ -7,13 +7,13 @@ function Sidebar() {
       <div className="items">
         <ul>
           <li>
-            <a href="#">HOME</a>
+            <a>HOME</a>
           </li>
           <li>
-            <a href="#">PROFILE</a>
+            <a>PROFILE</a>
           </li>
           <li>
-            <a href="#">ABOUT</a>
+            <a>ABOUT</a>
           </li>
         </ul>
       </div>
