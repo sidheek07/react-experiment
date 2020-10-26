@@ -10,7 +10,7 @@
   list-style: none;
   margin-top: 0;
 }
-.ul a {
+.ul li {
   display: flex;
   line-height: 80px;
   font-size: 20px;
@@ -19,6 +19,6 @@
   padding-left: 50px;
   text-align: center;
 }
-.ul a:hover {
+.ul li:hover {
   color: rgb(9, 68, 2);
 }

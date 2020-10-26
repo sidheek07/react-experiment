@@ -5,15 +5,9 @@ function Navabr() {
   return (
     <div className="navbar">
       <ul className="ul">
-        <li>
-          <a>HOME</a>
-        </li>
-        <li>
-          <a>PROFILE</a>
-        </li>
-        <li>
-          <a>ABOUT</a>
-        </li>
+        <li>HOME</li>
+        <li>PROFILE</li>
+        <li>ABOUT</li>
       </ul>
     </div>
   );
