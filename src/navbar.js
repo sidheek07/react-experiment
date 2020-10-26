@@ -6,7 +6,7 @@ function Navabr() {
     <div className="navbar">
       <ul className="ul">
         <li>
-          <a href="#">HOME</a>
+          <a>HOME</a>
         </li>
         <li>
           <a href="#">PROFILE</a>
